@@ -44,12 +44,13 @@ The FPGA visualization displays:
 
 ## Repository Structure
 
+```plaintext
 final_project/
 ├── neural_network.c
 ├── README.md
 └── screenshots/
     └── vga_training_visualization.png
-
+```
 ## Learning Outcomes
 - Implemented neural network training without external ML libraries
 - Connected software algorithms with FPGA hardware interaction
