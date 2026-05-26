@@ -1,7 +1,6 @@
 # Final Project — Neural Network on FPGA
 
 **Course:** ECE243 — University of Toronto  
-**Score:** 8.5/10
 
 ## Project Overview
 Designed and implemented a feedforward neural network in C and deployed it on the DE1-SoC FPGA board to classify urinary tract infection (UTI) cases using patient health data.
